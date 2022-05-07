@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, We are Riverton Roleplay!</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mango-client&label=Profile%20views&color=0e75b6&style=flat" alt="riverton-rp" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RivertonRP&label=Profile%20views&color=0e75b6&style=flat" alt="riverton-rp" /> </p>
 
 <p align="left"> <a href="https://twitter.com/rivertonrp" target="blank"><img src="https://img.shields.io/twitter/follow/rivertonrp?logo=twitter&style=for-the-badge" alt="rivertonrp" /></a> </p
   
@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with us!:</h3>
 <p align="left">
-<a href="https://twitter.com/rivertonrp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mango_client" height="30" width="40" /></a>
+<a href="https://twitter.com/rivertonrp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rivertonrp" height="30" width="40" /></a>
 <a href="https://discord.rivertonrp.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="K7YN7xfKUV" height="30" width="40" /></a>
 </p>
 

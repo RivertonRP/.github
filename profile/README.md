@@ -4,6 +4,7 @@
 <p align="left"> <a href="https://twitter.com/rivertonrp" target="blank"><img src="https://img.shields.io/twitter/follow/rivertonrp?logo=twitter&style=for-the-badge" alt="rivertonrp" /></a> </p
   
 - 📫 How to reach us! **business@rivertonrp.com**
+- 📫 Send us an email if your interested in a sponsor! **sponsor@rivertonrp.com**
 
 <h3 align="left">Connect with us!:</h3>
 <p align="left">
